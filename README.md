@@ -8,3 +8,4 @@ algorithms for optimization, in particular Quantum Hamiltonian Descent (QHD).
 
 ## Contact
 - marco.burato@unifi.it
+- ORCID: [0009-0009-0152-8425](https://orcid.org/0009-0009-0152-8425)
